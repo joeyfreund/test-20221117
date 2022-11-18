@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-FROM node:12-alpine
+FROM mcr.microsoft.com/devcontainers/universal:2
 
 # RUN apk add --no-cache python2 g++ make
 # WORKDIR /app
